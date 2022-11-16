@@ -1,2 +1,2 @@
 # FizzBuzz
- FizzBuzz Challenge - CSharp
+ FizzBuzz challenge - CSharp
